@@ -9,3 +9,6 @@ Route::get('/test', function () {
     return 'test';
 });
 // test my git 
+Route::get('/test2', function () {
+    return 'test2';
+});
